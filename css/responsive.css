@@ -1,0 +1,603 @@
+@media (max-width:1800px) {
+    .price-list--title h1 {
+        font-size: 45px;
+    }
+    .about-us-wrapper {
+        margin-top: 25px;
+    }
+    .about-us--right-content::before {
+        width: 172%;
+    }
+    .our-product-wrapper {
+        max-width: 1550px;
+    }
+    .our-product--title h1 {
+        padding-bottom: 150px;
+    }
+    .our-product--slide {
+        margin-top: -14%;
+    }
+}
+
+@media (max-width:1600px) {
+    .wrapper-head {
+        max-width: 1380px;
+    }
+    .head-logo img {
+        width: 340px;
+    }
+    .header-right--row-1 {
+        padding-bottom: 15px;
+        padding-top: 15px;
+    }
+    .header-right--menu {
+        height: 70px;
+    }
+    #header::after {
+        height: 10px;
+    }
+    .header-right--menu::before {
+        border-bottom: 70px solid #d5011a;
+    }
+    .price-list--title h1 {
+        font-size: 40px;
+    }
+    .home-banner--content-block-2 {
+        padding-top: 40px;
+        padding-left: 40px;
+        padding-right: 110px;
+    }
+    .price-list--block h2 {
+        font-size: 26px;
+    }
+    .price-list--block p {
+        font-size: 19px;
+    }
+    .about-us--right-content::before {
+        border: 8px solid #111111;
+        width: 176%;
+    }
+}
+
+@media (max-width:1500px) {
+    .about-us-wrapper,
+    .home-banner .home-banner--content {
+        max-width: 1000px;
+    }
+    .about-us {
+        padding-top: 96px;
+    }
+    .our-product-wrapper {
+        max-width: 1380px;
+    }
+    .product-block--info-product .product-name p {
+        font-size: 25px;
+    }
+    .product-block--info-product .product-name span {
+        font-size: 17px;
+    }
+    .product-block--info-product .col-50 h6,
+    .product-block--info-product .col-50 p,
+    .product-block--info-product .col-50 span {
+        font-size: 17px;
+    }
+    .our-product--title h1 {
+        font-size: 45px;
+        padding-top: 50px;
+        padding-bottom: 135px;
+    }
+    .our-product--title h1::after {
+        border: 15px solid #416828;
+    }
+    .our-product--slide .slick-dots {
+        margin-top: 35px;
+    }
+    .our-product {
+        padding-bottom: 70px;
+    }
+}
+
+@media(max-width:1400px) {
+    .wrapper-head {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .header-right--row-1 p,
+    .header-right--row-1 a {
+        font-size: 17px;
+    }
+    .about-us--left-ex h1 {
+        font-size: 75px;
+    }
+    .about-us--left-ex h2 {
+        font-size: 29px;
+        margin-bottom: 8px;
+    }
+    .about-us--left-ex {
+        width: 160px;
+        height: 160px;
+    }
+    .about-us--right-content::before {
+        width: 169%;
+    }
+    .our-product {
+        margin-top: 70px;
+    }
+    .our-product--title {
+        padding-top: 50px;
+    }
+    .our-product--title h1 {
+        font-size: 40px;
+    }
+    .our-product--slide {
+        margin-top: -17%;
+    }
+    .price-list--money-transfers {
+        padding-top: 10px;
+    }
+    .price-list--block {
+        padding-bottom: 10px;
+    }
+    .about-us {
+        padding-top: 125px;
+    }
+}
+
+@media(max-width:1300px) {
+    .head-right-two-row {
+        width: 70.0667%;
+    }
+    .nav-menu li {
+        margin-left: 45px;
+        margin-right: 45px;
+    }
+    .home-banner .home-banner--content {
+        top: 9%;
+    }
+    .our-product--slide .slick-dots button {
+        width: 16px;
+        height: 16px;
+    }
+    .our-product--slide .slick-dots li {
+        margin: 0 20px;
+    }
+    .product-block--info-product {
+        padding: 20px 20px 12px 20px;
+    }
+    .parallax-content--block {
+        width: 350px;
+        height: 90px;
+        padding: 18px 49px;
+    }
+    .parallax-content--info {
+        margin-bottom: 35px;
+    }
+    .parallax-effect {
+        height: 428px;
+    }
+    .footer-info {
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+    .footer-info p {
+        font-size: 16.5px;
+    }
+}
+
+@media (max-width:1200px) {
+    .home-banner--content-block-1 {
+        margin-bottom: 15px;
+    }
+    .home-banner--content-block-1,
+    .home-banner--content-block-2 {
+        width: 32.4878%;
+    }
+    .price-list--title h1 {
+        font-size: 35px;
+    }
+    .social-media li {
+        margin-left: 30px;
+    }
+    .home-banner--content-block-2 {
+        padding-top: 25px;
+        padding-left: 25px;
+        padding-right: 67px;
+    }
+    .about-us {
+        padding-top: 27px;
+    }
+    .home-banner--photo img {
+        display: none;
+    }
+    .home-banner--photo {
+        height: 535px;
+        background-size: cover;
+        background-position: center right;
+    }
+    .head-right-two-row {
+        width: 63.0667%;
+    }
+}
+
+@media(max-width:1100px) {
+    .about-us--right-content::before {
+        width: 169%;
+        right: 0;
+    }
+    .nav-menu li {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .nav-menu a {
+        font-size: 18px;
+    }
+    .header-right--menu {
+        justify-content: space-between;
+    }
+    .header-right--row-1 {
+        padding-bottom: 12px;
+        padding-top: 12px;
+    }
+    .header-right--menu {
+        height: 66px;
+    }
+    .header-right--menu::before {
+        border-bottom: 66px solid #d5011a;
+    }
+    .head-logo img {
+        width: 309px;
+    }
+    .home-banner .home-banner--content {
+        top: 9%;
+        max-width: 960px;
+    }
+    .about-us--right-content {
+        padding-top: 30px;
+        padding-bottom: 30px;
+        padding-right: 30px;
+        position: relative;
+    }
+    .about-us-wrapper {
+        max-width: 960px;
+    }
+    .about-us--right-content::before {
+        width: 158%;
+        right: 0;
+        border: 5px solid #111111;
+    }
+    .about-us--right-content .quote h6 {
+        font-size: 30px;
+    }
+    .our-product--title {
+        padding-bottom: 68px;
+    }
+    .product-block--info-product .col-50 h6,
+    .product-block--info-product .col-50 p,
+    .product-block--info-product .col-50 span {
+        font-size: 15px;
+    }
+    .product-block--info-product .product-name p {
+        font-size: 24px;
+    }
+    .our-product--slide .slick-dots button {
+        width: 14px;
+        height: 14px;
+    }
+    .our-product--slide .slick-dots {
+        margin-top: 30px;
+    }
+    .our-product {
+        padding-bottom: 58px;
+    }
+    .our-product--title h1 {
+        font-size: 35px;
+    }
+    .parallax-content--block {
+        width: 300px;
+        height: 90px;
+        padding: 18px 20px;
+    }
+    .parallax-effect {
+        height: 385px;
+    }
+}
+
+@media (max-width:1024px) {
+    .nav-menu a {
+        font-size: 17px;
+    }
+    .header-right--menu-navigation {
+        margin-right: 0;
+    }
+    .parallax-effect {
+        background-attachment: unset;
+    }
+}
+
+@media(max-width:991px) {
+    .head-right-two-row {
+        width: 100%;
+    }
+    .header-right--menu::before {
+        width: 20px;
+        height: 100%;
+        background: #d5011a;
+    }
+    .nav-menu li {
+        margin-left: 32px;
+        margin-right: 32px;
+    }
+    .head-logo {
+        position: absolute;
+        top: 14px;
+        left: 15px;
+    }
+    .home-banner .home-banner--content {
+        top: 9%;
+        max-width: 735px;
+    }
+    .price-list--title h1 {
+        font-size: 30px;
+    }
+    .price-list--block h2 {
+        font-size: 21px;
+    }
+    .price-list--block p {
+        font-size: 17px;
+    }
+    .price-list--money-revice {
+        padding-top: 15px;
+    }
+    .price-list--money-card {
+        padding-top: 15px;
+    }
+    .home-banner--content-block-2 {
+        padding-left: 12px;
+        padding-right: 12px;
+    }
+    .about-us--right-content p {
+        font-size: 17px;
+    }
+    .about-us-wrapper {
+        max-width: 735px;
+    }
+    .about-us {
+        padding-top: 0;
+    }
+    .about-us--right-content {
+        padding-top: 20px;
+        padding-bottom: 30px;
+        padding-right: 20px;
+    }
+    .about-us--right {
+        width: 42.65%;
+    }
+    .about-us--left-ex h1 {
+        font-size: 54px;
+    }
+    .about-us--left-ex h2 {
+        font-size: 23px;
+        margin-bottom: 2px;
+    }
+    .about-us--left-ex {
+        width: 138px;
+        height: 138px;
+        padding-top: 15px;
+    }
+    .about-us--left-ex h3 {
+        font-size: 17.55px;
+    }
+    .about-us--right {
+        padding-top: 37px;
+    }
+    .about-us--right-content::before {
+        width: 155%;
+    }
+    .parallax-content--block {
+        width: 250px;
+        height: 80px;
+        padding: 10px 10px;
+        margin-left: 3px;
+        margin-right: 3px;
+    }
+    .parallax-content--block p {
+        font-size: 17px;
+    }
+    .parallax-content--block a {
+        font-size: 18px;
+    }
+    .parallax-content--btn {
+        max-width: 505px;
+    }
+    .parallax-content--btn::after {
+        background-size: contain;
+        top: 11px;
+        pointer-events: none;
+    }
+    .parallax-content--btn h1 {
+        font-size: 25px;
+        margin-bottom: 27px;
+    }
+    .parallax-content--btn .redirect-btn {
+        font-size: 20px;
+        height: 51px;
+        width: 178px;
+        line-height: 50px;
+    }
+}
+
+@media (max-width:767px) {
+    .home-banner--photo {
+        display: none;
+    }
+    .home-banner--photo-mobile {
+        display: block;
+    }
+    .header-right--row-1 {
+        display: none;
+    }
+    .header-right--menu {
+        height: 160px;
+    }
+    .head-logo {
+        position: relative;
+        top: 0;
+        left: 0;
+    }
+    element.style {}
+    .head-right-two-row {
+        width: 150px;
+    }
+    .header-right--menu::before {
+        width: auto;
+        height: auto;
+        background-color: transparent;
+    }
+    .header-right--menu::before {
+        left: -80px;
+        border-left: 80px solid transparent;
+        border-bottom: 160px solid #d5011a;
+    }
+    .navigation {
+        margin-right: 0;
+        width: 100%;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 280px;
+        height: 100%;
+        bottom: 0;
+        background-color: #0c0c0c;
+        padding: 35px 20px 0 35px;
+        overflow-y: scroll;
+        visibility: hidden;
+        z-index: 990;
+        padding-top: 79px;
+        overflow-y: auto;
+        overflow-x: hidden;
+        -webkit-transition: all .5s ease;
+        transition: all .5s ease;
+        -webkit-transform: translateZ(0);
+        -webkit-backface-visibility: hidden;
+        -webkit-transform: translateX(-100%);
+        -ms-transform: translateX(-100%);
+        transform: translateX(-100%);
+    }
+    .navigation.active {
+        -webkit-transform: translateX(0);
+        -ms-transform: translateX(0);
+        transform: translateX(0);
+        visibility: visible;
+        -webkit-overflow-scrolling: touch;
+    }
+    .head-logo img {
+        width: 340px;
+    }
+    .home-banner .home-banner--content {
+        top: 0;
+        max-width: 498px;
+        position: relative;
+        padding-top: 30px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .link-panel {
+        display: flex;
+        align-items: center;
+        justify-content: left;
+        position: relative;
+        width: 50px;
+        height: 36px;
+        cursor: pointer;
+    }
+    .link-panel .icon {
+        display: block;
+        position: relative;
+        width: 45px;
+        height: 5px;
+        background-color: #ffffff;
+        transition: all 0.3s ease-in-out;
+    }
+    .link-panel .icon:before,
+    .link-panel .icon:after {
+        content: "";
+        height: 5px;
+        background-color: #ffffff;
+        position: absolute;
+        left: 0;
+        transition: all 0.3s ease-in-out;
+    }
+    .link-panel .icon:before {
+        top: -14px;
+        width: 50px;
+    }
+    .link-panel .icon:after {
+        bottom: -14px;
+        width: 50px;
+    }
+    .header-right--menu-navigation {
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .home-banner--content-block-1,
+    .home-banner--content-block-2 {
+        width: 100%;
+    }
+    .home-banner--content-block-2 {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .about-us--left-photo {
+        display: none;
+    }
+    .about-us-wrapper {
+        max-width: 498px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .about-us--right {
+        width: 100%;
+    }
+    .about-us--right-content::before {
+        width: 100%;
+        height: 122%;
+        bottom: 0;
+        top: auto;
+    }
+    .about-us--right-content {
+        padding: 25px;
+    }
+    .about-us--left {
+        width: 100%;
+    }
+    .about-us--left-ex {
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 0;
+    }
+    .about-us--right {
+        padding-top: 0;
+    }
+    .our-product-wrapper {
+        max-width: 498px;
+    }
+    .our-product--slide .product-block {
+        padding: 10px 35px;
+    }
+    .our-product--title h1 {
+        padding-bottom: 92px;
+    }
+    .parallax-content--info {
+        max-width: 498px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .parallax-content--block {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .parallax-effect {
+        height: 472px;
+        background-attachment: unset;
+    }
+}
